@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NimbleRazorPages.Web/NimbleRazorPages.Web.csproj" />
+  </Folder>
+  <Folder Name="/test/" />
+</Solution>
